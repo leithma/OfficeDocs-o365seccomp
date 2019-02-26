@@ -1,7 +1,8 @@
 ---
 title: "Videos for getting started with protecting your email"
-ms.author: andypunt
-author: tracyp
+ms.author: tracyp
+author: msfttracyp
+ms.reviewer: andypunt
 manager: laurawi
 ms.date: 2/25/2019
 ms.audience: ITPro
